@@ -13,5 +13,5 @@ def link
 end
 
 def all_phrases
-  puts "/It'sa me, Mario!/"
+  puts "/It's-a me, Mario!/"
 end
